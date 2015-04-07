@@ -155,6 +155,8 @@ switch (_shop) do
 		{
 			_return set[count _return,
 			["I_MRAP_03_F",250000]];
+			_return set[count _return,
+			["O_MRAP_02_F",250000]];
 		};
 	};
 	
